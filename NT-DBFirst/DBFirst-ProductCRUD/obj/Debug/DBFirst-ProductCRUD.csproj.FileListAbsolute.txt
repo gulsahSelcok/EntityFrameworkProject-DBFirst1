@@ -1,0 +1,15 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\DBFirst-ProductCRUD.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\DBFirst-ProductCRUD.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\DBFirst-ProductCRUD.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst_ProductCRUD.Form1.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst_ProductCRUD.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csproj.CopyComplete
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\Desktop\gulsah\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.pdb
